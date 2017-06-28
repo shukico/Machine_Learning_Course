@@ -9,4 +9,4 @@ Exercises:
 - Ex3: 
 - Ex4:
 
-MNIST dataset can be downloaded using this (link)[http://yann.lecun.com/exdb/mnist/]
+MNIST dataset can be downloaded using this [link](http://yann.lecun.com/exdb/mnist/)
