@@ -7,5 +7,7 @@ Exercises:
 - Ex1: kNN
 - Ex2: SVM (using SGD), perceptron
 - Ex3: Multiclass SVM, Kernels
+- Ex4: AdaBoost, PCA
+
 
 MNIST dataset can be downloaded using this [link](http://yann.lecun.com/exdb/mnist/)
